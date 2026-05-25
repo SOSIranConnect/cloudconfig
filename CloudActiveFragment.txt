@@ -61,7 +61,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
@@ -180,7 +180,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
@@ -299,7 +299,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
@@ -418,7 +418,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
@@ -537,7 +537,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
@@ -656,7 +656,7 @@
             "alpn": [
                 "http/1.1"
             ],
-            "fingerprint": "firefox",
+            "fingerprint": "ios",
             "show": false
             },
             "sockopt": {
