@@ -1,6 +1,6 @@
 [
     {
-    "remarks": "@SOSIranConnect🇫🇷12654846🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇫🇷12654846🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
@@ -119,7 +119,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇳🇱12667339🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇳🇱12667339🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
@@ -238,7 +238,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇵🇱1269207🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇵🇱1269207🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
@@ -357,7 +357,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷13729239🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇫🇷13729239🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
@@ -476,7 +476,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷13693689🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇫🇷13693689🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
@@ -595,7 +595,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷12424323🇮🇷🧩",
+    "remarks": "@SOSIranConnect🇫🇷12424323🧩1️⃣",
     "log": {
         "access": "",
         "error": "",
