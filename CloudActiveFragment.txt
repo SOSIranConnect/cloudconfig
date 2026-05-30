@@ -1,6 +1,6 @@
 [
     {
-    "remarks": "@SOSIranConnect🇫🇷GossipGlove🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇫🇷GossipGlove🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -119,7 +119,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇳🇱MultiplyDose🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇳🇱MultiplyDose🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -238,7 +238,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇵🇱CreationLong🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇵🇱CreationLong🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -357,7 +357,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷CalmLoud🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇫🇷CalmLoud🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -476,7 +476,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷IgniteLimit🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇫🇷IgniteLimit🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -595,7 +595,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷CalmLunch🧩⬜1️⃣",
+    "remarks": "@SOSIranConnect🇫🇷CalmLunch🧩⚪❶",
     "log": {
         "access": "",
         "error": "",
@@ -715,7 +715,7 @@
 
 
     {
-    "remarks": "@SOSIranConnect🇫🇷GossipGlove🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇫🇷GossipGlove🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
@@ -834,7 +834,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇳🇱MultiplyDose🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇳🇱MultiplyDose🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
@@ -953,7 +953,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇵🇱CreationLong🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇵🇱CreationLong🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
@@ -1072,7 +1072,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷CalmLoud🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇫🇷CalmLoud🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
@@ -1191,7 +1191,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷IgniteLimit🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇫🇷IgniteLimit🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
@@ -1310,7 +1310,7 @@
     },
 
     {
-    "remarks": "@SOSIranConnect🇫🇷CalmLunch🧩⬜2️⃣",
+    "remarks": "@SOSIranConnect🇫🇷CalmLunch🧩⚪❷",
     "log": {
         "access": "",
         "error": "",
